@@ -1,4 +1,4 @@
   method Z_ANOTHERTOKEN.
     Write 'stale'.
-    Write 'stageee'.
+    Write 'stays'.
   endmethod.
