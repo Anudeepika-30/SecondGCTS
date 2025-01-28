@@ -1,4 +1,4 @@
   method Z_ANOTHERTOKEN.
     Write 'stale'.
-    Write 'spay'.
+    Write 'spays'.
 endmethod.
